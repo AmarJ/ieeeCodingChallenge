@@ -1,5 +1,6 @@
 public class Fibonacci{
-    public int findNthFibonacci(int n){
+    public static int findNthFibonacci(int n){
         /* TODO: write your code here */
+        throw new UnsupportedOperationException();
     }
 }

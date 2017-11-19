@@ -1,5 +1,6 @@
 public class LargestDifference{
-    public int findLargestDifference(int[] inputArray){
+    public static int findLargestDifference(int[] inputArray){
         /* TODO: write your code here */
+        throw new UnsupportedOperationException();
     }
 }
