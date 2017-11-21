@@ -1,7 +1,4 @@
-#A is a list of non-negative integers.
+# a is a list of integers
 
-def findLargestDifference(A):
-
-	print("Not implemented.")
-	#implement this
-
+def find_minimum_loss(a):
+    pass # Remove this and replace with your implementation
