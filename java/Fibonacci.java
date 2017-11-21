@@ -1,3 +1,5 @@
+// Subclass this class and name the new class Q1_<your identifier>
+
 public abstract class Fibonacci {
 
     public abstract long getNthFibonacci(int n);
