@@ -24,6 +24,6 @@ Send your files to academic@ieeeuottawa.ca with the following in the email subje
 
 For example: **2 - 8668550 - 1,2,3**
 
-
+Good luck and have fun!
 
   
