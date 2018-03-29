@@ -1,4 +1,4 @@
-# IEEE Coding Challenge Fall 2018! 
+# IEEE Coding Challenge Winter 2018! 
 
 ## Challenge Rules
 
