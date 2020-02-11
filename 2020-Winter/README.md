@@ -18,7 +18,7 @@ You must name your files like this:
 
 For example: **Q1_XXXXXXX.py** -- where the XXXXXXX represents your student number.
 
-Send your files to academic@ieeeuottawa.ca with the following in the email subject. 
+Send your files to vice-chair@ieeeuottawa.ca with the following in the email subject. 
 
 **Subject:** [Year] - [Student Number] - [Completed questions]
 
